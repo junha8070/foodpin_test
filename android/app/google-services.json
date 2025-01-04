@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179584675585",
+    "project_id": "foodpin-d001c",
+    "storage_bucket": "foodpin-d001c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179584675585:android:9fc93776641bbc39577500",
+        "android_client_info": {
+          "package_name": "com.barowoori.foodpin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ6IgrNbWu2ZXtWtJ_liVrjm2e5yTsHPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
